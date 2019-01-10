@@ -1,4 +1,4 @@
-# proj_basi_di_dati
+# proj_software engineering
 
 A full guide is available in the file relazione.pdf (Italian only)
 
